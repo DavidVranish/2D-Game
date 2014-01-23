@@ -5,6 +5,8 @@
   * The Tower is guarded
   * The Tower must be repaired to win
   * As the Tower is repaired it gains the ability to kill orcs
+  * The ability of the Tower to kill Orcs increases the more it is repaired
+  * The Tower has health which automatically regenerates over time (slowly)
   * The Tower is repaired by retrieving Items from around the map
   * The Items are guarded by Orcs
   * If the Tower is destroyed the players lose
